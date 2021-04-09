@@ -1,0 +1,2 @@
+# Ethermining
+Online mining
